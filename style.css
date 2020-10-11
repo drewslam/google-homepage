@@ -11,13 +11,30 @@
     justify-content: center;
 }
 
-.buttons {
+.search-buttons {
     display: flex;
+    flex-direction: center;
     padding: 25px;
     align-items: center;
     justify-content: center;
 }
 
 button {
-    border-radius: o;
+    border-radius: 5%;
+}
+
+.navbar-left {
+    display: flex;
+    position: left;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.navbar-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    padding: 8px;
 }
