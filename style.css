@@ -21,3 +21,31 @@
 button {
     border-radius: o;
 }
+
+.navright {
+    display: flex;
+    flex-direction: row;
+    position: right;
+    justify-content: flex-end;
+}
+
+.navleft {
+    display: flex;
+    flex-direction: row;
+    position: left;
+    justify-content: flex-start;
+}
+
+.right-foot {
+    display: flex;
+    flex-direction: row;
+    position: right;
+    justify-content: flex-end;
+}
+
+.left-foot {
+    display: flex;
+    flex-direction: row;
+    position: left;
+    justify-content: flex-start;
+}
