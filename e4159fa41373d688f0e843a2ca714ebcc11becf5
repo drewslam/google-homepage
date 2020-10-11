@@ -1,0 +1,42 @@
+[33mcommit 76fb9f6af3dbe27745c07d7e782640dd6809bdad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 034b61f e4159fa
+Author: Andrew Souza <andrewesouza@gmail.com>
+Date:   Sun Oct 11 08:06:58 2020 -0700
+
+    Merge branch 'master' of github.com:drewslam/google-homepage
+
+[33mcommit e4159fa41373d688f0e843a2ca714ebcc11becf5[m
+Author: Andrew Souza <andrewesouza@gmail.com>
+Date:   Sat Oct 10 20:50:49 2020 -0700
+
+    Added top navbar
+
+[33mcommit 034b61ffaea4e1dd1f2767073dbbc221a59fa373[m
+Author: Andrew Souza <andrewesouza@gmail.com>
+Date:   Thu Oct 8 21:05:05 2020 -0700
+
+    Made some edits to main layout before reverting to original
+
+[33mcommit 78ce2c731b37a72f61d49a45d2ad6fed13e286fc[m
+Author: Andrew Souza <andrewesouza@gmail.com>
+Date:   Wed Oct 7 22:04:33 2020 -0700
+
+    Added Google image and basic search form with styling
+
+[33mcommit 849a3251322ab5ff020fb5c468cfa95092b22f01[m
+Author: Andrew Souza <andrewesouza@gmail.com>
+Date:   Wed Oct 7 20:57:47 2020 -0700
+
+    Created html and css docs and started base form of page
+
+[33mcommit 3481641a06c6060c8c006f0a20509617f306dcfc[m
+Author: Andrew Souza <andrewesouza@gmail.com>
+Date:   Wed Oct 7 20:25:18 2020 -0700
+
+    Added text to README.md
+
+[33mcommit 8ba25c2b73f21b64470160a6e029f8d2c49d32a8[m
+Author: Andrew Souza <andrewesouza@gmail.com>
+Date:   Wed Oct 7 20:21:42 2020 -0700
+
+    Add README.md
